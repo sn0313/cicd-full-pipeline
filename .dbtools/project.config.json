@@ -5,7 +5,7 @@
     "version" : "24.4.4.0"
   },
   "schemas" : [ "DEV_USER_12" ],
-  "lastReleaseVersion" : "",
+  "lastReleaseVersion" : "dev-1.0",
   "export" : {
     "format" : {
       "enable" : true
